@@ -28,14 +28,31 @@ identical, they are still of value as long as there is a consistency between the
 ### R1
 gapmap and corresponding histogram  
 Large size version and Equal size version
-### R2
+### R2  
+joint hostogram for all
 ### R3
+line profile...
+
 ### L1  
 Crop same nanometer size  
 Crop two place whrere high disorder and low disorder  
 Defect can be distinguished by 0 energy state.  
 colormap in plasma
 
+## What I have to create
+(low high)_V * (low high)_H * (gap peakH subGapstate)_texture * (image histogram avgDos)_visualization  
++ jointhistogram + lineprofile
+
+## Processing Plan
+1. find matlab related .mat files
+2. save them in google drive
+3. load in colab
+4. sync github and colab
+5. create figures by cell
+6. save results in local
+7. copy code for share
+8. send to Dr.Lee
+   
 ## List of Original figures
 ![image](https://github.com/user-attachments/assets/8512619b-0170-43cc-8ec1-f7e627a690f6)
 ![image](https://github.com/user-attachments/assets/0b9149b6-8aa9-4ad2-add9-fa53413d957f)
