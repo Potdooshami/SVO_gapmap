@@ -14,12 +14,14 @@ sp.dt.fullData
 %%
 GZaff.dt.H{1} %[output:58ca283a]
 %%
+
+%%
 %[text] Conclusion: I need last two .mat file!!
 
 %[appendix]{"version":"1.0"}
 %---
 %[metadata:view]
-%   data: {"layout":"onright","rightPanelPercent":51.3}
+%   data: {"layout":"onright","rightPanelPercent":49.3}
 %---
 %[output:9e9baa44]
 %   data: {"dataType":"textualVariable","outputData":{"header":"struct with fields:","name":"ans","value":"    CurrentScript: 'C:\\Users\\user\\OneDrive - postech.ac.kr\\matlab\\Scripts\\Sr2VO3FeAs\\2022.09.15_FigFB220915\\DP\\Sr2VO3FeAs_FigFB20220915_DP_FIG2Data4Plotting(v1.1)_2022_09_22__22_10.mlx'\n"}}
